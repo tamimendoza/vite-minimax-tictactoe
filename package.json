@@ -5,7 +5,7 @@
   "homepage": "https://tamimendoza.github.io/vite-minimax-tictactoe",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "bun run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
