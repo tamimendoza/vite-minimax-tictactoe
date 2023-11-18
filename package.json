@@ -2,7 +2,7 @@
   "name": "vite-minimax-tictactoe",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tamimendoza.github.io/vite-minimax-tictactoe",
+  "homepage": "https://tamimendoza.github.io/vite-minimax-tictactoe/",
   "type": "module",
   "scripts": {
     "predeploy": "bun run build",
